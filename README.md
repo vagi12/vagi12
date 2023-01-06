@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vagi12
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning object Oriented programing,problem Solving Concept.
+- 👀 Full Stack Web Developer || Mobile App Developer || Backend Developer
 - 💞️ I’m looking to collaborate on on back-end development and app development.
-- 📫 How to reach - You can mail me : vagishaphadke17@gmail.com
+- 📫 How to reach - E-mail : vagishaphadke17@gmail.com
+-                   Linkedin : https://www.linkedin.com/in/vagisha-1808961a7/
