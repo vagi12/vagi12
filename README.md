@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vagisha</h1>
 
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3 align="center">A passionate Software Developer from India</h3>
+
+<br>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=vagi12&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+</p>
+<br>
 
 - 💬 Ask me about **Python, Streamlit, AWS Glue(PySpark), SQL**
 
 - 📫 How to reach me **vagishaphadke17@gmail.com**
 
 - ⚡ Fun fact **I Like to play Badminton**
-
+  
+<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -31,9 +40,9 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
+</br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br>
 <!--- stats & Trophy (start) -->
 <p align="left">
   <!--- stats (start) -->
@@ -62,7 +71,6 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
+</br>
